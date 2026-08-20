@@ -74,10 +74,12 @@
 
    ![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
 
-**Data / BI**:
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-</p>
+<br>
+
+- **Data / BI**:
+
+    ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+    ![Microsoft Excel](https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 <br>
 <br>
@@ -126,6 +128,13 @@
 <li>
 <a href="mailto:juansep254@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  SebastianParra-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+<br>
+
+<li>
+<a href="https://wa.me/593983292372" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="margin-bottom: 5px;"/>
 </a>
 </li>
 	
