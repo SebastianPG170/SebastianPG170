@@ -47,7 +47,7 @@
 <br>
 - **Databases**:
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-  badge&logo=microsoftsqlserver&logoColor=white)
+  ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 <br>
 
